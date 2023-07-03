@@ -1,0 +1,14 @@
+.heading{
+    color: red;
+}
+.para{
+    text-align: center;
+}
+.flex{
+    width:50%;
+    height: 100px;
+    padding: 15px;
+    background-color: ghostwhite;
+    box-shadow: 10px 10px 5px lightblue;
+    margin-left: 25%;
+}
